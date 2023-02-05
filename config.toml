@@ -1,0 +1,32 @@
+baseURL = "https://manoe.my.id"
+languageCode = "en-us"
+title = "Hendra Manudinata"
+theme = "papermod"
+
+[params.profileMode]
+enabled = true
+title = "Hendra Manudinata"
+subtitle = "Just an ordinary 'hooman'"
+imageUrl = "https://avatars.githubusercontent.com/u/116422610"
+imageWidth = 160
+imageHeight = 160
+
+  [[params.profileMode.buttons]]
+  name = "Catatan (Blog)"
+  url = "https://catatan.manoe.my.id"
+
+[[params.socialIcons]]
+name = "GitHub"
+url = "https://github.com/manoedinata"
+
+[[params.socialIcons]]
+name = "Instagram"
+url = "https://instagram.com/manoedinata"
+
+[[params.socialIcons]]
+name = "Telegram"
+url = "https://t.me/manoedinata"
+
+[[params.socialIcons]]
+name = "Email"
+url = "mailto:hendra@manoe.my.id"
