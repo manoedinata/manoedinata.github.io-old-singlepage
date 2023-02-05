@@ -1,7 +1,7 @@
 baseURL = "https://manoe.my.id"
 languageCode = "en-us"
 title = "Hendra Manudinata"
-theme = "papermod"
+theme = "PaperMod"
 
 [params.profileMode]
 enabled = true
